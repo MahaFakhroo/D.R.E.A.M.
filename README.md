@@ -1,10 +1,10 @@
 # D.R.E.A.M.
 
 ## Team mates:
-Feras Abdulla
-Syed Shahid Hossaini
-Maha Fakhroo
-Eric Guan
+1. Feras Abdulla
+2. Syed Shahid Hossaini
+3. Maha Fakhroo
+4. Eric Guan
 
 ## Structure:
 1. Data Cleaning
