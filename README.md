@@ -3,6 +3,7 @@
 ## Team mates:
 Feras Abdulla
 Syed Shahid Hossaini
+Maha Fakhroo
 Eric Guan
 
 ## Structure:
