@@ -23,7 +23,7 @@ This repository:
 1. `Feras Abdulla`: Data Wrangling, Data Cleaning, ML Model
 2. `Syed Shahid Hossaini`: Exploratory Data Analysis, Data Visualization
 3. `Maha Fakhroo`: Exploratory Data Analysis, Data Visualization, PPT Presentation
-4. `Eric Guan`: Literature Review, Work Coordination, Medium Article, PPT Presentation
+4. `Eric Guan`: Exploratory Data Analysis, Data Visualization, Literature Review, Work Coordination, Medium Article, PPT Presentation
 
 
 ## Link to Github Repository (to clone the repository locally)
