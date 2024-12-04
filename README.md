@@ -19,11 +19,11 @@ This repository:
 4. Eric Guan
 
 
-## Work Distribution:
-1. `Feras Abdulla`: Data Wrangling, Data Cleaning, Data Visualization, ML Model
-2. `Syed Shahid Hossaini`: Literature Review, Exploratory Data Analysis, Data Visualization
-3. `Maha Fakhroo`: Exploratory Data Analysis, Data Visualization, PPT Presentation
-4. `Eric Guan`: Data Visualization, Work Coordination, Medium Article
+## Work Distribution and Attribution:
+1. `Feras Abdulla`: Data Wrangling, Data Cleaning, Data Visualization, ML Model, Medium Article
+2. `Syed Shahid Hossaini`: Literature Review, Exploratory Data Analysis, Data Visualization, Analysis and Interpretation
+3. `Maha Fakhroo`: Exploratory Data Analysis, Data Visualization, Analysis and Interpretation, PPT Presentation
+4. `Eric Guan`: Exploratory Data Analysis, Data Visualization, Work Coordination, Medium Article
 
 
 ## Link to Github Repository (to clone the repository locally)
