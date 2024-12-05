@@ -23,11 +23,11 @@ This repository:
 1. `Feras Abdulla`: Data Wrangling, Data Cleaning, Data Visualization, ML Model, Medium Article
 2. `Syed Shahid Hossaini`: Literature Review, Exploratory Data Analysis, Data Visualization, Analysis and Interpretation
 3. `Maha Fakhroo`: Exploratory Data Analysis, Data Visualization, Analysis and Interpretation, PPT Presentation
-4. `Eric Guan`: Exploratory Data Analysis, Data Visualization, Work Coordination, Medium Article
+4. `Eric Guan`: Exploratory Data Analysis, Data Visualization, Medium Article
 
 
 ## Link to Github Repository (to clone the repository locally)
-https://github.com/MahaFakhroo/D.R.E.A.M.
+https://github.com/MahaFakhroo/D.R.E.A.M..git
 
 
 ## Data Sources:
