@@ -27,7 +27,7 @@ This repository:
 
 
 ## Link to Github Repository (to clone the repository locally)
-https://github.com/MahaFakhroo/D.R.E.A.M..git
+https://github.com/MahaFakhroo/D.R.E.A.M.
 
 
 ## Data Sources:
